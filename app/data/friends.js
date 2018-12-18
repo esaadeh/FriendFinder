@@ -1,10 +1,11 @@
 // Was used with the random friends generating logic after the array below to seed randomized data for development and testing...currently hardcoded and modified to produce better names and actual photos.
 // var friendsArray = [];
 
+
 friendsArray = [
     {
     "name": "Ahmed",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo": "https://jooinn.com/funny-face.html#gal_post_96288_funny-face-1.jpg",
     "scores": [
     "5",
     "1",
@@ -20,7 +21,7 @@ friendsArray = [
     },
     {
     "name": "John",
-    "photo": 'https://www.google.com/search?q=jpg+images&tbm=isch&source=iu&ictx=1&fir=yIgGvQEa-cY36M%253A%252CZhiBOEkiGbW2tM%252C_&usg=AI4_-kTqGTsYtCV0M7N0W3Y6L5krvxTgAQ&sa=X&ved=2ahUKEwih-8G7xanfAhXHhVQKHUh4BiYQ9QEwAHoECAIQBA#imgrc=yIgGvQEa-cY36M:',
+    "photo": "https://static1.squarespace.com/static/56b62e0d7da24fb337cbddc8/56b662a65bd33056748e2481/56b662a65bd33056748e2487/1454798191712/orphan+faces+africa+lifestyle+non-profit+documentary+photography-1231.jpg",
     "scores": [
     "5",
     "1",
@@ -36,7 +37,7 @@ friendsArray = [
     },
     {
     "name": "Mary",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/n1.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sunflower_from_Silesia2.jpg",
     "scores": [
     "4",
     "3",
@@ -52,7 +53,7 @@ friendsArray = [
     },
     {
     "name": "Jenn",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/n2.jpg",
+    "photo": "https://static1.squarespace.com/static/575719aa20c64748d571fdaf/5757317362cd942208607b32/5945506c579fb34716168376/1497714796926/NN11477444.jpg",
     "scores": [
     "4",
     "3",
@@ -68,7 +69,7 @@ friendsArray = [
     },
     {
     "name": "Bill",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/n3.jpg",
+    "photo": "https://bloximages.newyork1.vip.townnews.com/westerngazette.ca/content/tncms/assets/v3/editorial/0/64/064bddd2-0691-11e7-9c3c-33f43b3adc2e/58c4501062fb6.image.jpg",
     "scores": [
     "3",
     "3",
@@ -84,7 +85,7 @@ friendsArray = [
     },
     {
     "name": "Amy",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/n4.jpg",
+    "photo": "https://static1.squarespace.com/static/575719aa20c64748d571fdaf/5757317362cd942208607b32/5757320427d4bd18286d4b0b/1465332244691/NYC142483.jpg",
     "scores": [
     "2",
     "3",
@@ -100,7 +101,7 @@ friendsArray = [
     },
     {
     "name": "Scott",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/n5.jpg",
+    "photo": "https://tutorialedge.net/images/tony-stark.jpg",
     "scores": [
     "2",
     "4",
@@ -116,7 +117,7 @@ friendsArray = [
     },
     {
     "name": "Jane",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/n6.jpg",
+    "photo": "https://static1.squarespace.com/static/52ef0a16e4b0c45fade63d38/5634fd5ce4b017e2546cdcf9/5bca08b2652deadabc04953e/1539967295498/Witch+Green+Face+Paint.jpg",
     "scores": [
     "5",
     "5",
@@ -132,7 +133,7 @@ friendsArray = [
     },
     {
     "name": "Jan",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/n7.jpg",
+    "photo": "https://static1.squarespace.com/static/52e59a99e4b0423ffa1e97ee/52e5b642e4b04ab8b0fc9fb8/5523fb82e4b0a4a6330075cd/1428421512848/humanae+97-7+C.jpg",
     "scores": [
     "5",
     "5",
@@ -148,7 +149,7 @@ friendsArray = [
     },
     {
     "name": "Matt",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/n8.jpg",
+    "photo": "http://www.miketyka.com/projects/faces/00346000.jpg.cover.jpg",
     "scores": [
     "5",
     "4",
@@ -164,7 +165,7 @@ friendsArray = [
     },
     {
     "name": "Tim",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/n9.jpg",
+    "photo": "https://i.kym-cdn.com/photos/images/original/000/092/462/c2f.jpg",
     "scores": [
     "5",
     "5",
