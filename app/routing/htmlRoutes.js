@@ -1,5 +1,4 @@
-
-
+// Module/package requirements
 var path = require('path');
 
 
@@ -9,13 +8,6 @@ var path = require('path');
 
 module.exports = function(app) {
 
-
-
-// Listens for a get request on the '/' (home) route and responds with the home.html file
-
-// app.get('/', function(req, res) {
-//     res.sendFile(path.join(__dirname, '../public/home.html'));
-// });
 
 // Listens for a get request on the '/survey' route and responds with the survey.html file
 app.get('/survey', function(req, res) {
